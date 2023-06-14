@@ -1,0 +1,16 @@
+*.html
+*.csv
+*.xls
+*.xlsx
+*.json
+*.sh
+venv/*
+.venv/*
+env/*
+docs/*
+test/*
+data/*
+.~lock*
+.env
+__pycache__/*
+*.tar
