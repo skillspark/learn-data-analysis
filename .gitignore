@@ -4,13 +4,13 @@
 *.xlsx
 *.json
 *.sh
-venv/*
-.venv/*
-env/*
+*.tar
+venv_learn-data-analysis/*
+# env/*
 docs/*
 test/*
 data/*
 .~lock*
-.env
+# .env
 __pycache__/*
-*.tar
+
