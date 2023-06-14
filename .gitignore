@@ -5,7 +5,7 @@
 *.json
 *.sh
 *.tar
-venv_learn-data-analysis/*
+venv_lda/*
 # env/*
 docs/*
 test/*
