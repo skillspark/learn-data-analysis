@@ -9,7 +9,7 @@ venv-lda/*
 # env/*
 docs/*
 test/*
-data/*
+# data/*
 .~lock*
 # .env
 __pycache__/*
