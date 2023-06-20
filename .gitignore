@@ -1,11 +1,11 @@
 *.html
-*.csv
+# *.csv
 *.xls
 *.xlsx
 *.json
 *.sh
 *.tar
-venv_lda/*
+venv-lda/*
 # env/*
 docs/*
 test/*
