@@ -8,7 +8,8 @@ To view these notebooks online, click on the links below
 To download and run these notebooks in your own local dev environent:
 1. Download the .ipynb file in this repository and place it in  "<your_dev_folder>" folder
 2. Download the .csv file in this repository and place it in "<your_dev_folder>/data/<project>" folder
-For example, for the StackExchange project:
+
+For example, to setup the StackExchange project:
 1. Download the [StackExchange.ipynb](https://downgit.github.io/#/home?url=https://github.com/skillspark/learn-data-analysis/blob/main/StackExchange.ipynb) file in this repository and place it in  "<your_dev_folder>" folder
 2. Download the data set [questions.csv](https://downgit.github.io/#/home?url=https://github.com/skillspark/learn-data-analysis/blob/main/data/stack_exchange/questions.csv) file in this repository and place it in "<your_dev_folder>/data/stack_exchange" folder
 ## The Data Cleansing Workflow
