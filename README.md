@@ -1,5 +1,16 @@
 # learn-data-analysis
 This repository contains projects on my Dataquest learning path, for data analysis.
+
+## Instructions
+### View online
+To view these notebooks online, click on the links below
+### Download and run locally
+To download and run these notebooks in your own local dev environent:
+1. Download the .ipynb file in this repository and place it in  "<your_dev_folder>" folder
+2. Download the .csv file in this repository and place it in "<your_dev_folder>/data/<project>" folder
+For example, for the StackExchange project:
+1. Download the [StackExchange.ipynb](https://downgit.github.io/#/home?url=https://github.com/skillspark/learn-data-analysis/blob/main/StackExchange.ipynb) file in this repository and place it in  "<your_dev_folder>" folder
+2. Download the data set [questions.csv](https://downgit.github.io/#/home?url=https://github.com/skillspark/learn-data-analysis/blob/main/data/stack_exchange/questions.csv) file in this repository and place it in "<your_dev_folder>/data/stack_exchange" folder
 ## The Data Cleansing Workflow
 1. [Guided Project: Analyzing NYC High School Data](https://github.com/skillspark/learn-data-analysis/blob/main/Schools.ipynb)
 2. [Guided Project: Star Wars Survey](https://github.com/skillspark/learn-data-analysis/blob/main/StarWars.ipynb)
