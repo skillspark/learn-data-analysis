@@ -3,7 +3,7 @@ This repository contains projects on my Dataquest learning path, for data analys
 
 ## Instructions
 ### View online
-To view these notebooks online, click on the links below
+To view these notebooks online, click on the links under **Projects** below
 ### Download and run locally
 To download and run these notebooks in your own local dev environent:
 1. Download the .ipynb file in this repository and place it in  "<your_dev_folder>" folder
