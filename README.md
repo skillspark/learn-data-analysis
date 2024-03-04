@@ -22,4 +22,7 @@ For example, to setup the StackExchange project:
 1. [Guided Project: Popular Data Science Questions](https://github.com/skillspark/learn-data-analysis/blob/main/StackExchange.ipynb)
 
 ### Probability and Statistics
-1. [Guided Project: Investigating Fandango Movie Ratings ](https://github.com/skillspark/learn-data-analysis/blob/main/Fandango.ipynb)
+1. [Guided Project: Investigating Fandango Movie Ratings](https://github.com/skillspark/learn-data-analysis/blob/main/Fandango.ipynb)
+
+### Machine Learning in Python
+1. [Guided Project: Predicting Heart Disease using Supervised ML](https://github.com/skillspark/learn-data-analysis/blob/main/PredictHeartDisease.ipynb)
