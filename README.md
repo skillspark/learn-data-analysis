@@ -26,3 +26,4 @@ For example, to setup the StackExchange project:
 
 ### Machine Learning in Python
 1. [Guided Project: Predicting Heart Disease using Supervised ML](https://github.com/skillspark/learn-data-analysis/blob/main/PredictHeartDisease.ipynb)
+2. [Guided Project: Credit Card Customer Segmentation using Unsupervised ML](https://github.com/skillspark/learn-data-analysis/blob/main/CCCSegmentation.ipynb)
