@@ -29,3 +29,4 @@ For example, to setup the StackExchange project:
 2. [Guided Project: Credit Card Customer Segmentation using Unsupervised ML](https://github.com/skillspark/learn-data-analysis/blob/main/CCCSegmentation.ipynb)
 3. [Guided Project: Predicting Insurance Costs with Linear Regression Modelling](https://github.com/skillspark/learn-data-analysis/blob/main/PredictInsuranceCost.ipynb)
 4. [Guided Project: Predict Crowdedness at the Campus Gym using Stochastic Gradient Descent on Linear Regression](https://github.com/skillspark/learn-data-analysis/blob/main/PredictGymCrowd.ipynb)
+5. [Guided Project: Predicting Heart Disease with Classification using Logistic Regression](https://github.com/skillspark/learn-data-analysis/blob/main/PredictHeartDiseaseWithClassification.ipynb)
