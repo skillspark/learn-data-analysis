@@ -6,6 +6,7 @@
 *.sh
 *.tar
 venv-lda/*
+venv-tensorflow/*
 # env/*
 docs/*
 test/*
