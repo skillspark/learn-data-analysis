@@ -31,3 +31,6 @@ For example, to setup the StackExchange project:
 4. [Guided Project: Predict Crowdedness at the Campus Gym using Stochastic Gradient Descent on Linear Regression](https://github.com/skillspark/learn-data-analysis/blob/main/PredictGymCrowd.ipynb)
 5. [Guided Project: Predicting Heart Disease with Classification using Logistic Regression](https://github.com/skillspark/learn-data-analysis/blob/main/PredictHeartDiseaseWithClassification.ipynb)
 6. [Guided Project: Predicting Employee Productivity Using Tree Models](https://github.com/skillspark/learn-data-analysis/blob/main/PredictEmplProd.ipynb)
+
+### Deep Learning in Python
+1. [Guided Project: Predicting Listing Gains in the Indian IPO Market Using TensorFlow](https://github.com/skillspark/learn-data-analysis/blob/main/PredictIndianIPOGainsTensorFlow.ipynb)
